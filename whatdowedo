@@ -1,0 +1,8 @@
+1. Créer une page create-annonce.php (avec un formulaire)
+2.Traitement du formulaire dans une page create-annonce-post.php
+3.Relier la création d'annonce à l'utilisateur connecté (via un token de session)
+4. NE PAS OUBLIER l'UPLOAD D'IMAGE
+(Peuvent être faits en premier) 5. Créer une fonction d'affichage des annonces.
+(Peuvent être faits en premier) 6. Et créer une fonction d'affichage de l'annonce sur une nouvelle page (1 seule).
+7. Affichage des annonces par l'utilisateur sur sa page de profil (Une autre fonction) qui incluent des boutons edit et delete.
+*8*. Codes les delete et edit (nouvelles fonctions).
